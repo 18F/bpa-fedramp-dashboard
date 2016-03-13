@@ -6,7 +6,7 @@ CLIENT ORDER ID NUMBER: ID09160019
 
 The Contracting Officer (CO) is responsible for monitoring task order contract compliance, contract administration, and cost control and for resolving any differences between the observations documented by the Government and the contractor. The CO will designate, at a minimum, one (1) Contracting Officer’s Representative (COR) as the Government authority for performance management. The number of additional representatives serving as technical inspectors depends on the complexity of the services measured, as well as the contractor’s performance, and must be identified and designated by the CO.
 
-Contracting Officer’s Representative
+## Contracting Officer’s Representative
 
 The Contracting Officer’s Representative (COR) is designated in writing by the CO to act as his or her authorized representative to assist in administering a contract. COR limitations are contained in the written appointment letter. The COR is responsible for technical administration of the project and ensures proper Government surveillance of the contractor’s performance. The COR is not empowered to make any contractual commitments or to authorize any contractual changes on the Government’s behalf. Any changes that the contractor deems may affect contract price, terms, or conditions shall be referred to the CO for action.  The COR will have the responsibility to document the inspection and evaluation of the contractor’s work performance.  
 
