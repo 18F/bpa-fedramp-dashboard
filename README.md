@@ -10,6 +10,7 @@ We're excited to announce the initial RFQ for the [Agile BPA](https://pages.18f.
   - [Oral Presentation instructions](Pre-Solicitation-Documents/Instructions_for_Oral_Presentations.md)
   - [Quality Assurance Surveillance Plan](Pre-Solicitation-Documents/QASP.md)
   - [Labor Pricing Template](Pre-Solicitation-Documents/ID09160019-Labor-Pricing-Template.xlsx)
+  - [Government Roles & Responsibilities](Pre-Solicitation-Documents/Government_Roles_and_Responsibilities.md)
 
 2. The [Ordering Guide](Pre-Solicitation-Documents/Ordering_Guide.md) that 18F intends to use for the Agile BPA.
 
