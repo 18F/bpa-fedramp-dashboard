@@ -21,7 +21,7 @@ If you have questions, comments, or suggestions, please submit them as [issues](
 
 ### Next Steps
 
-We are still going through final reviews on our end, but your feedback is important. Our final reviews will take place at the same time, with the hopes of posting the final RFQ sometime during the week of March 21.
+We are still going through final reviews on our end, but your feedback is important. Our final reviews will take place at the same time, with the hopes of posting the final RFQ sometime during the week of March 28.
 
 ## Public domain
 
