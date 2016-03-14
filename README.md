@@ -10,6 +10,7 @@ We're excited to announce the initial RFQ for the [Agile BPA](https://pages.18f.
   - [Oral Presentation instructions](Pre-Solicitation-Documents/Instructions_for_Oral_Presentations.md)
   - [Quality Assurance Surveillance Plan](Pre-Solicitation-Documents/QASP.md)
   - [Agile BPA Ordering Guide](Pre-Solicitation-Documents/Ordering_Guide.md)
+  - [Labor Pricing Template](Pre-Solicitation-Documents/ID09160019-Labor-Pricing-Template.xlsx)
 
 2. The Transparency Policy that 18F intends to use for the Agile BPA:
 
