@@ -1,6 +1,6 @@
 ## FedRAMP Dashboard BPA Order
 
-We're excited to announce the initial RFQ for the [Agile BPA](https://pages.18f.gov/ads-bpa) will be posted within the next two weeks.
+We're excited to announce the initial RFQ for the [Agile BPA](https://pages.18f.gov/ads-bpa) will be posted within the next few weeks.
 
 ### Manifest
 
