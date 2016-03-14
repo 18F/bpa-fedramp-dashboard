@@ -9,14 +9,13 @@ We're excited to announce the initial RFQ for the [Agile BPA](https://pages.18f.
   - [Performance Work Statement](Pre-Solicitation-Documents/Draft_PWS.md)
   - [Oral Presentation instructions](Pre-Solicitation-Documents/Instructions_for_Oral_Presentations.md)
   - [Quality Assurance Surveillance Plan](Pre-Solicitation-Documents/QASP.md)
-  - [Agile BPA Ordering Guide](Pre-Solicitation-Documents/Ordering_Guide.md)
   - [Labor Pricing Template](Pre-Solicitation-Documents/ID09160019-Labor-Pricing-Template.xlsx)
 
 2. The Transparency Policy that 18F intends to use for the Agile BPA:
 
   > Vendors are advised that 18F will publish on a publicly available website documents associated with this requirement, including any Requests for Quotation (including amendments), Question and Answer exchanges with vendors (source-identifying information removed), and other relevant information that is not confidential/proprietary in nature or source selection sensitive information that would otherwise implicate procurement integrity concerns. Upon award, 18F will publish the total price of the selected proposal and certain non-source-identifying data (e.g., the number of bids, the mean price, median, and standard deviation of price). During the performance of this task order, 18F will similarly publish source code, data related to project management (e.g., user stories, milestones, and performance metrics), and top-line spending data.
 
-3. The Ordering Guide that 18F intends to use for the Agile BPA.
+3. The [Ordering Guide](Pre-Solicitation-Documents/Ordering_Guide.md) that 18F intends to use for the Agile BPA.
 
 If you have questions, comments, or suggestions, please submit them as [issues](https://github.com/18F/bpa-fedramp-dashboard/issues).
 
