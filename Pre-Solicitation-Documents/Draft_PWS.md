@@ -1,12 +1,12 @@
 # 1.0 BACKGROUND
 
-The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud hosting products and services. 
+The Federal Risk and Authorization Management Program, or FedRAMP, is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud hosting products and services.
 
 The objective of FedRAMP is to standardize and streamline the process for Cloud Service Providers (CSPs) to become compliant with government IT rules and regulations, and thereby make it easier for individual agencies to acquire secure, compliant cloud services. This certification process ultimately saves time, money, and effort, as agencies no longer need to individually go through the arduous process of security-certifying these solutions.
 
 There are a number of different user groups connected to and invested in the FedRAMP process, including the FedRAMP team itself, CSPs, Federal Agencies, and Office of Management and Budget (OMB).  Currently, it is difficult for the external users (CSPs, agencies, OMB) to understand what stage CSPs are in the certification process, making it difficult to plan, make decisions, and check compliance. Additionally, the private information increases the FedRAMP team’s burden to manually respond and field these inquiries.
 
-The Government believes that building a publicly available, web-based dashboard that provides greater visibility and up to date status for vendors going through the FedRAMP certification process, will yield a variety of positive outcomes, including increased transparency and monitoring, improved decision-making and prioritization abilities, reduced effort in compliance activities, among others.  The prioritized target users that should benefit from a dashboard include agencies (specific roles within agencies), the FedRAMP team, and OMB, and to a lesser extent the CSPs themselves. 
+The Government believes that building a publicly available, web-based dashboard that provides greater visibility and up to date status for vendors going through the FedRAMP certification process, will yield a variety of positive outcomes, including increased transparency and monitoring, improved decision-making and prioritization abilities, reduced effort in compliance activities, among others.  The prioritized target users that should benefit from a dashboard include agencies (specific roles within agencies), the FedRAMP team, and OMB, and to a lesser extent the CSPs themselves.
 
 # 2.0	OBJECTIVES
 
@@ -30,16 +30,17 @@ The anticipated benefits of a dashboard for other users (e.g. Agencies, OMB) sho
 
 # 3.0	SCOPE
 
-The scope of this task order is for the Contractor to deliver the public beta launch of the FedRAMP dashboard. The backend data and script will be provided. 
+The scope of this task order is for the Contractor to deliver the public beta launch of the FedRAMP dashboard. The backend data and script will be provided.
 The following 4 sections of the PWS describe the technical and administrative components of the requirement:
 * Tasks the vendor must perform (Section 4).
 * Task requirements that describe to the vendor specifics about how the vendor performs the tasks in Section 4 (Section 5).
 * Other/Administrative requirements such as type of contract, period of performance, etc. that are more contract-orientated as opposed to requirement focused (Section 6).
 * Invoicing Instructions (Section 7).
+
 # 4.0	REQUIREMENTS
 
 The Contractor shall provide the following services:
-* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in this Github Repository and sample data is available here. The static-site must be deployable through a single bash command. 
+* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in this Github Repository and sample data is available here. The static-site must be deployable through a single bash command.
 * Contractor shall build print friendly layout of pages for reporting of FedRAMP process and participants.
 * Contractor shall review user research and conduct additional user research in order to provide data views that are most useful.
 
@@ -52,18 +53,18 @@ Vendor will not be expected to handle the following tasks:
 * Provide or configure hosting of the data or the site
 * Provide form functionality for data-entry of FedRAMP data
 * Directly create, update, or delete the data
-* 
+
 # 5.0	OPERATIONAL REQUIREMENTS
 
 ## 5.1 	Project Management
 
 The contractor shall provide a Project Manager point of contact for the government’s program office for problem resolution, Program Management reporting in accordance with Program Management methodologies, and staffing requirements. Sprint plans will be developed collaboratively with the Product Owner and 18F.
 
-As per Agile Development requirements, the Contracting Officer’s Representative (COR) and contractor will be expected to work with the Product Owner (as determined by 18F and FedRAMP), and an 18F Product Manager. Refer to Attachment 2, for Government Roles and Responsibilities. 
+As per Agile Development requirements, the Contracting Officer’s Representative (COR) and contractor will be expected to work with the Product Owner (as determined by 18F and FedRAMP), and an 18F Product Manager. Refer to Attachment 2, for Government Roles and Responsibilities.
 
 ## 5.2	Impact Reports
 
-The contractor shall be responsible for providing notification to the COR, 18F Product Manager, and Product Owner when activities or issues outside of the contractor’s control, which directly impact the contractor’s performance.  This notification shall be provided in writing or via email within 24 hours of the anticipated or known impact. 
+The contractor shall be responsible for providing notification to the COR, 18F Product Manager, and Product Owner when activities or issues outside of the contractor’s control, which directly impact the contractor’s performance.  This notification shall be provided in writing or via email within 24 hours of the anticipated or known impact.
 
 ## 5.3	Status Reports
 
@@ -78,7 +79,7 @@ In lieu of a typical status report, the following are required to document progr
 
 Daily operations will be managed by the Contractor’s Project Manager, but coordinated to and communicated with the 18F Product Manager. They may include:
 
-*		Daily standup via video
+*	Daily standup via video
 *	Chat operations via Slack
 *	Manage and update user stories + workflow tasks in shared project management platform
 
@@ -106,16 +107,17 @@ Final report shall include list of sprint tasks completed, documentation, and li
 
 Table 1 List of Deliverables
 
-Required Deliverables/Reports	Required Due Date	Description of Deliverable Content
-Status Report	1 business day after every sprint	A report of progress throughout the sprint
-Code repository for product	End of task order	Version controlled open source repository of code that comprises dashboard
-Development Prototype	End of second sprint, and every sprint thereafter	In-progress development prototype, accessible on the web via a staging/development server
-Working Dashboard of FedRamp Cloud Service Providers	End of task order	
-Transition Plan	3 business days after conclusion of the second-to-last sprint	See 5.5.1
+Required Deliverables/Reports	Required | Due Date | Description of Deliverable Content
+---------------------------------------|----------|------------------------------------
+Status Report | 1 business day after every sprint	| A report of progress throughout the sprint
+Code repository for product | End of task order | Version controlled open source repository of code that comprises dashboard
+Development Prototype | End of second sprint, and every sprint thereafter	| In-progress development prototype, accessible on the web via a staging/development server
+Working Dashboard of FedRamp Cloud Service Providers | End of task order | 	
+Transition Plan	| 3 business days after conclusion of the second-to-last sprint	| See 5.5.1
 
 ### 5.6.1	Delivery Instructions
 
-Code deliverables shall be submitted via the Github repository. A copy of any document deliverables shall be submitted to the COR, Product Owner, and 18F Product Manager, and uploaded to the AASBS (Assisted Acquisition Services Business System) web portal. Refer to Section 6.11 for additional information on the AASBS web portal. 
+Code deliverables shall be submitted via the Github repository. A copy of any document deliverables shall be submitted to the COR, Product Owner, and 18F Product Manager, and uploaded to the AASBS (Assisted Acquisition Services Business System) web portal. Refer to Section 6.11 for additional information on the AASBS web portal.
 
 ### 5.6.2	Inspection and Acceptance of Services
 
@@ -132,7 +134,7 @@ The Contractor shall consult with the COR to determine what is appropriate, effe
 *	Provide all system documentation and training to Government staff (either in-person, non-travel, video, or via webinar).
 *	Develop and provide effective training materials of all deliverables.
 
-### 5.6.4. Quality Assurance 
+### 5.6.4. Quality Assurance
 
 The Government intends to utilize the attached Quality Assurance Surveillance Plan (QASP) to monitor the quality of the Contractor’s performance.  The oversight provided for in the QASP will help to ensure that service levels reach and maintain the required levels throughout the contract term.  Further, the QASP provides the COR with a proactive way to avoid unacceptable or deficient performance, and provides verifiable input for the required Past Performance Information Assessments.  The QASP is a living document and may be updated by the Government as necessary. Any updates to the QASP will be provided to the Contractor.
 
@@ -151,13 +153,13 @@ Contractor personnel shall have:
 *	Ability to utilize existing design and user experience assets from US Web Design Standards.
 *	Programming fluency in JavaScript, Hypertext Text Markdown Language (HTML), Cascading Style Sheets (CSS) or HTML and/or JavaScript templating language.
 
-### 5.7.2 Key Personnel 
+### 5.7.2 Key Personnel
 
 The following requirements related to personnel must be met:
 
 a)	The Contractor shall assign to perform this task order those persons whose résumés are submitted with its quotation and who are identified in the Contractor’s quotation as Key Personnel. All contractor employees assigned to perform this task order will be Key Personnel.
 
-b)	If an individual proposed as Key Personnel becomes unavailable during the course of the source selection process, the Offeror will notify the Contracting Officer immediately and provide a substitute and their résumé. The proposal of any Key Personnel not currently employed by the Offeror shall be accompanied by letters of intent signed by the proposed Key Personnel indicating their intent to be employed by the Offeror team if the Offeror is awarded a task order under this RFQ. 
+b)	If an individual proposed as Key Personnel becomes unavailable during the course of the source selection process, the Offeror will notify the Contracting Officer immediately and provide a substitute and their résumé. The proposal of any Key Personnel not currently employed by the Offeror shall be accompanied by letters of intent signed by the proposed Key Personnel indicating their intent to be employed by the Offeror team if the Offeror is awarded a task order under this RFQ.
 
 c)	The Contractor agrees that during the duration of the task order performance, no Key Personnel substitutions will be made unless necessitated by an individual’s sudden illness, death, or termination of employment. In any of these events, the Contractor shall promptly notify the COR and provide the information required by paragraph (e) below on the proposed replacement for Government approval. No substitutions of Key Personnel shall be made except in accordance with this provision.
 
@@ -205,15 +207,15 @@ If the Contracting Officer determines that a potential conflict can be avoided, 
 
 This is a Firm Fixed Price order using the Agile BPA terms and conditions.  
 
-## 6.2	Period of Performance (POP) 
+## 6.2	Period of Performance (POP)
 
 The period performance for this task order is delivery of the final product 60 days after the Post Award Conference. The Period of Performance begins on the date of the Post Award Conference and ends 60 days after the Post Award Conference.
 
 ## 6.3	Place and Hours of Performance
 
-The primary place of performance will be at the contractor’s facility. Work may be performed at GSA Headquarters at 1800 F St. NW, Washington, DC, and Alternate Sites.  18F is a distributed team. 
+The primary place of performance will be at the contractor’s facility. Work may be performed at GSA Headquarters at 1800 F St. NW, Washington, DC, and Alternate Sites.  18F is a distributed team.
 
-Business core hours shall be 0900 to 1800 local time, Monday – Friday on Government scheduled work days. The contractor may set its own work hours except that the contractor shall be available for technical contact by the Government between the hours of 0900 and 1800 local time on Government work days. 
+Business core hours shall be 0900 to 1800 local time, Monday – Friday on Government scheduled work days. The contractor may set its own work hours except that the contractor shall be available for technical contact by the Government between the hours of 0900 and 1800 local time on Government work days.
 
 ## 6.4	Special Terms and Conditions
 
@@ -274,7 +276,7 @@ If the contractor needs to use work that does not have an open source license, t
 
 If an open source license provides implementation guidance, the contractor shall ensure compliance with that guidance. If implementation guidance is not available, the contractor shall attach or include the license within the work itself. Examples of this include code comments at the beginning of a file or contained in a license file within a software repository.
 
-## 6.11	GSA AAS Business Systems (AASBS) Web Portal 
+## 6.11	GSA AAS Business Systems (AASBS) Web Portal
 
 The GSA AASBS (Assisted Acquisition Services Business Systems also known as IT Solutions Shop (ITSS)) web portal will be accessible to the contractor during the performance of the task order and be used in the administration of the task order. This web-based system at https://portal.fas.gsa.gov/web/guest shall be used by the contractor to upload status reports, deliverables, invoices, and to respond to inquiries. The contractor shall maintain a current account on this system.
 
@@ -284,28 +286,28 @@ The following Points of Contact (POC) are applicable to this order:
 
 Contracting Officer Representative (COR):
 Esther Kim
-GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F 
+GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F
 esther,kim@gsa.gov
-(202) 826-7232 
+(202) 826-7232
 
 Alternative Contracting Officer Representative (ACOR):
 Joshua Bailes
 GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F
 joshua.bailes@gsa.gov
-(202) 550-6659 
+(202) 550-6659
 
 18F Product Manager
-Jessie Posilkin 
-GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F 
+Jessie Posilkin
+GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F
 jessie.posilkin@gsa.gov
 (202) 406-4689
 
 GSA FedRamp Product Owner:
 
-To Be Determined 
+To Be Determined
 
 GSA Procurement Project Manager:
-Kit Lee 
+Kit Lee
 GSA, Assisted Acquisition Services (AAS)
 kit.lee@gsa.gov
 (415) 436-8730
@@ -318,7 +320,7 @@ lynda.luo@gsa.gov
 
 # 7.0	INVOICING/ PROCEDURES FOR PAYMENT
 
-The period of performance for each invoice shall be for one calendar month. The contractor shall submit only one invoice per month per order/contract. 
+The period of performance for each invoice shall be for one calendar month. The contractor shall submit only one invoice per month per order/contract.
 
 NOTE: The Government reserves the right to audit, thus; the contractor shall keep on file all backup support documentation for travels as applicable.
 
@@ -339,9 +341,9 @@ The contractor’s invoice will be submitted monthly for work performed the prio
 *	Travel Itemized by Individual and Trip (if applicable)
 *	Supporting documentation for travel including travel approval and receipts (if applicable)
 
-## 7.2	Invoice Submission 
+## 7.2	Invoice Submission
 
-All invoicing shall be done electronically. Password and electronic invoice access may be obtained through the AASBS web portal. The Invoice and the Status Reports for the applicable billing period shall be entered into the AASBS portal within 5 to 10 calendar days after the end of the month. The contractor shall submit invoices electronically by logging into the AASBS portal (https://portal.fas.gsa.gov), navigating to the appropriate order, and creating the invoice for that order and attach a copy of invoice, status reports with all required back-up documentation as applicable. The contractor shall NOT submit any invoices directly to the GSA Finance Center (neither by mail nor via electronic submission). If the invoices are acceptable, then the Procurement Project Manager and COR will approve them for payment and complete the information in the AASBS portal. 
+All invoicing shall be done electronically. Password and electronic invoice access may be obtained through the AASBS web portal. The Invoice and the Status Reports for the applicable billing period shall be entered into the AASBS portal within 5 to 10 calendar days after the end of the month. The contractor shall submit invoices electronically by logging into the AASBS portal (https://portal.fas.gsa.gov), navigating to the appropriate order, and creating the invoice for that order and attach a copy of invoice, status reports with all required back-up documentation as applicable. The contractor shall NOT submit any invoices directly to the GSA Finance Center (neither by mail nor via electronic submission). If the invoices are acceptable, then the Procurement Project Manager and COR will approve them for payment and complete the information in the AASBS portal.
 
 ## 7.3	Final Invoice
 
@@ -355,5 +357,3 @@ The contractor shall submit a final invoice within 60 calendar days after the en
 
 
  Attachment: QASP
-
-
