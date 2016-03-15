@@ -16,7 +16,7 @@ Refer to PWS Attachment 2 for Government Roles and Responsibilities.
 **Note that the performance requirements listed below are required for the final deliverable.  However, the sprints and incremental delivery of code will be assessed by the Government to ensure that the contractor is on a path to successful final delivery.**
 
 Deliverable or Required Services | Performance Standard(s) | Acceptable Quality Level (AQL)| Method of Surveillance
-------------------------|-------------------------------|-----------------------
+------------------------|-------------------------------|-----------------------|-------------------
 Tested Code	| Code delivered under the order must have substantial test code coverage and a clean code base	| Minimum 90% test coverage and Code Climate of 3	| https://codeclimate.com
 Accessible |	Client-side rendering must comply with section 508 standards	| Meets 508 Standards |	http://squizlabs.github.io/HTML_CodeSniffer/
 Deployed	| Code must successfully build and deploy into staging environment.	| Successful build | CloudFoundry logs
