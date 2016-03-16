@@ -14,23 +14,22 @@ The period of performance for the BPA itself is five years from the date of awar
 The following companies are available to submit quotations under Pool Three of this BPA (in alphabetical order):
 
 - Acumen Solution Inc
-- SemanticBits
 - Applied Information Sciences Inc
-- TechFlow Inc
 - Booz Allen Hamilton Inc (BAH)
-- TeraLogics LLC
 - DSoft Technology Company
-- Three Wire Systems LLC
 - Environmental Systems Research Institute Inc (ESRI)
-- True Tandem LLC
 - Flexion Inc
-- Vencore Services and Solutions Inc
 - InQbation
-- Ventera Corporation
 - NCI Information Systems Inc
-- World Wide Technology
 - PricewaterhouseCoopers Public Sector LLP (PwC)
-
+- SemanticBits
+- TechFlow Inc
+- TeraLogics LLC
+- Three Wire Systems LLC
+- True Tandem LLC
+- Vencore Services and Solutions Inc
+- Ventera Corporation
+- World Wide Technology
 
 ## 2.	AUTHORIZED USERS & POINTS OF CONTACT
 
