@@ -287,7 +287,7 @@ The following Points of Contact (POC) are applicable to this order:
 Contracting Officer Representative (COR):
 Esther Kim
 GSA, Office of Citizen Services and Innovative Technologies (OCSIT) - 18F
-esther,kim@gsa.gov
+esther.kim@gsa.gov
 (202) 826-7232
 
 Alternative Contracting Officer Representative (ACOR):
