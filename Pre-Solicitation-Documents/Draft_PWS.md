@@ -40,12 +40,12 @@ The following 4 sections of the PWS describe the technical and administrative co
 # 4.0	REQUIREMENTS
 
 The Contractor shall provide the following services:
-* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in this Github Repository and sample data is available here. The static-site must be deployable through a single bash command.
+* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in [this Github Repository](https://github.com/18F/fedramp-micropurchase) and sample data is available [here](https://github.com/18F/fedramp-micropurchase/blob/master/P-ATO.csv). The static-site must be deployable through a single bash command.
 * Contractor shall build print friendly layout of pages for reporting of FedRAMP process and participants.
 * Contractor shall review user research and conduct additional user research in order to provide data views that are most useful.
 
 Additional requirements:
-* Contractor shall use US Web Design Standards.
+* Contractor shall use [US Web Design Standards](https://playbook.cio.gov/designstandards/).
 * All software code delivered under this order shall comply with the 18F open-source policy in effect as of the date of award: https://github.com/18F/open-source-policy.
 * All software code delivered under this order shall comply with the 18F accessibility guidelines in effect as of the date of award: https://pages.18f.gov/accessibility/.
 * As part of this being purchased off of the Agile Blanket Purchase Agreement (BPA), work will be conducted in two week sprints and reviewed at the end of each sprint for acceptability before moving on.
@@ -224,6 +224,7 @@ Business core hours shall be 0900 to 1800 local time, Monday – Friday on Gover
 The contractor shall support the Government in its conformance with Section 508 throughout the development and implementation of the work to be performed. Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d) requires that when Federal agencies develop, procure, maintain, or use electronic information technology, Federal employees with disabilities have access to and use of information and data that is comparable to the access and use by Federal employees who do not have disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities, unless an undue burden would be imposed on the agency.  The following standard is applicable for compliance: 1194.22 Web-based Intranet and Internet Information and Applications.
 
 The contractor should review the following websites for additional 508 information: http://www.section508.gov/index.cfm?FuseAction=Content&ID=12
+
 http://www.access-board.gov/508.htm
 
 http://www.w3.org/WAI/Resources
@@ -270,7 +271,7 @@ It is 18F's intent that any data or deliverable created as a result of the work 
 
 It is the intention of 18F to commit the following, but not limited to, items to the public domain: all data, documents, graphics and code created under this task order including but not limited to, plans, reports, schedules, schemas, metadata, architecture designs, and the like; new open source software created by the contractor and forks or branches of current open source software where the contractor has made a modification; new tooling, scripting configuration management, infrastructure as code, or any other final changes or edits to successfully deploy or operate the software.
 
-The contractor shall use open source technologies wherever possible, in support of the 18F Source Code Policy. All licenses must be expressly listed in the deliverable. Regardless of license(s) used (e.g., MIT, GPL, Creative Commons 0) the license(s) shall be clearly listed in the documentation.
+The contractor shall use open source technologies wherever possible, in support of the [18F Source Code Policy](https://github.com/18F/open-source-policy/blob/master/policy.md). All licenses must be expressly listed in the deliverable. Regardless of license(s) used (e.g., MIT, GPL, Creative Commons 0) the license(s) shall be clearly listed in the documentation.
 
 If the contractor needs to use work that does not have an open source license, the contractor is required to request permission from 18F, in writing, before utilizing that work in any way in connection with the order. If approved, all licenses shall be clearly set forth in a conspicuous place when work is delivered to 18F.
 
