@@ -1,10 +1,10 @@
 ## FedRAMP Dashboard Blanket Purchase Agreement (BPA) Order
 
-We're excited to announce the initial Request for Quotations (RFQ) for the [Agile Blanket Purchase Agreement (BPA)](https://pages.18f.gov/ads-bpa) will be posted within the next few weeks.
+We're excited to announce the initial Request for Quotations (RFQ) for the [Agile Blanket Purchase Agreement (BPA)](https://pages.18f.gov/ads-bpa), which will be posted within the next few weeks.
 
 ### Manifest
 
-1. Draft RFQ documents.  You'll see all of the information that has been drafted to date:
+1. Draft RFQ documents. You'll see all of the information that has been drafted to date:
   - [Our RFQ](Pre-Solicitation-Documents/RFQ_ID09160019.md)
   - [Performance Work Statement](Pre-Solicitation-Documents/Draft_PWS.md)
   - [Oral Presentation instructions](Pre-Solicitation-Documents/Instructions_for_Oral_Presentations.md)
