@@ -19,7 +19,7 @@ The following companies are available to submit quotations under Pool Three of t
 - DSoft Technology Company
 - Environmental Systems Research Institute Inc (ESRI)
 - Flexion Inc
-- InQbation
+- Agileana LLC
 - NCI Information Systems Inc
 - PricewaterhouseCoopers Public Sector LLP (PwC)
 - SemanticBits
@@ -59,10 +59,10 @@ To this end, 18F’s clients will not be responsible for providing documents tra
 
 As the Agile BPA is established against existing GSA FSS awards, requirements will be fulfilled through a streamlined fair opportunity process that will consist of the following steps:
 
-GSA Releases Solicitation under one of the BPA Pools
-GSA Receives Question and Provides Answers
-Vendors Submit Quotations
-GSA Evaluates and Awards the Task
+* GSA Releases Solicitation under one of the BPA Pools
+* GSA Receives Question and Provides Answers
+* Vendors Submit Quotations
+* GSA Evaluates and Awards the Task
 
 ## 4.	ADMINISTRATION
 
