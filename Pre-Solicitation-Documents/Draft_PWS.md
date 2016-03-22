@@ -127,12 +127,9 @@ Only the COR, and their designated alternate, has the authority to inspect, acce
 
 Performance by the Contractor to correct defects found by the Government as a result of quality assurance surveillance and by the Contractor as a result of quality control, shall be in accordance with FAR 52.246-4, Inspection – Firm Fixed Price. The COR will monitor compliance and report to the Procurement Project Manager.
 
-### 5.6.3	System Documentation and Training
+### 5.6.3	System Documentation
 
-The Contractor shall consult with the COR to determine what is appropriate, effective, and essential for training. Based on that conversation, Contractor shall:
-
-*	Provide all system documentation and training to Government staff (either in-person, non-travel, video, or via webinar).
-*	Develop and provide effective training materials of all deliverables.
+The Contractor shall consult with the COR to determine what is appropriate, effective, and essential for system documentation. The Government requires, at a minimum, that the contractor will generate comprehensive and complete documentation, both within the code itself, within the source code version control system (e.g., through proper use of descriptive commit messages, issue tracking, pull requests, etc.), and as appropriate, in separate documentation, provide artifacts, and create new user stories based on each sprint.
 
 ### 5.6.4. Quality Assurance
 
