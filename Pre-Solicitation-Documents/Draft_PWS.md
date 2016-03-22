@@ -121,7 +121,7 @@ Code deliverables shall be submitted via the Github repository. A copy of any do
 
 ### 5.6.2	Inspection and Acceptance of Services
 
-All periodic reports and task deliverables shall be inspected, tested (where applicable), reviewed, and accepted by the Government within a reasonable period of time.
+All periodic reports and task deliverables shall be inspected, tested (where applicable), reviewed, and accepted by the Government within 10 days of the conclusion of each sprint.
 
 Only the COR, and their designated alternate, has the authority to inspect, accept, or reject all deliverables. Final acceptance of all deliverables will be provided in writing, or in electronic format, to the contractor, from COR, within 30 days from the end of the task order.
 
