@@ -49,7 +49,9 @@ Additional requirements:
 * All software code delivered under this order shall comply with the 18F open-source policy in effect as of the date of award: https://github.com/18F/open-source-policy.
 * All software code delivered under this order shall comply with the 18F accessibility guidelines in effect as of the date of award: https://pages.18f.gov/accessibility/.
 * As part of this being purchased off of the Agile Blanket Purchase Agreement (BPA), work will be conducted in two week sprints and reviewed at the end of each sprint for acceptability before moving on.
-Vendor will not be expected to handle the following tasks:
+
+## Note the following tasks are not required:
+Vendor will not be required to handle any of the following tasks:
 * Provide or configure hosting of the data or the site
 * Provide form functionality for data-entry of FedRAMP data
 * Directly create, update, or delete the data
