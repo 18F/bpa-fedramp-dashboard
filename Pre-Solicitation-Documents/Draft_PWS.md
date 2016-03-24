@@ -40,7 +40,7 @@ The following 4 sections of the PWS describe the technical and administrative co
 # 4.0	REQUIREMENTS
 
 The Contractor shall provide the following services:
-* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in this Github Repository and sample data is available here. The static-site must be deployable through a single bash command.
+* Contractor shall build a static public site, that will provide client-side rendering of the dashboard (preferably via JavaScript), based on a flat file (csv/json) accessible through the GitHub Application Program Interface (API).  A template of the data format of the data can be found in this Github Repository and sample data is available here. The static-site must be deployable through a single bash command. All files will be stored statically (server-side) and all dynamic interaction will be enabled in the browser (client-side).
 * Contractor shall build print friendly layout of pages for reporting of FedRAMP process and participants.
 * Contractor shall review user research and conduct additional user research in order to provide data views that are most useful.
 
