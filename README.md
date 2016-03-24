@@ -16,8 +16,8 @@ We're excited to announce the initial Request for Quotations (RFQ) for the [Agil
 
 3. The Transparency Policy that 18F intends to use for the Agile BPA:
 
-  > Vendors are advised that 18F will publish on a publicly available website documents associated with this requirement, including any Requests for Quotation (including amendments), Question and Answer exchanges with vendors (source-identifying information removed), and other relevant information that is not confidential/proprietary in nature or source selection sensitive information that would otherwise implicate procurement integrity concerns. Upon award, 18F will publish the total price of the selected proposal and certain non-source-identifying data (e.g., the number of bids, the mean price, median, and standard deviation of price). During the performance of this task order, 18F will similarly publish source code, data related to project management (e.g., user stories, milestones, and performance metrics), and top-line spending data.
-  
+  > Vendors are advised that 18F will publish on a publicly available website documents associated with this requirement, including any Requests for Quotation (including amendments), Question and Answer exchanges with vendors (source-identifying information removed), and other relevant information that is not confidential/proprietary in nature or source selection sensitive information that would otherwise implicate procurement integrity concerns. Unless otherwise explicitly stated in the Request for Quotation, vendors' proposals will not be publicly available, subject to applicable laws and regulations. Upon award, 18F will publish the total price of the selected proposal and certain non-source-identifying data (e.g., the number of bids, the mean price, median, and standard deviation of price). During the performance of this task order, 18F will similarly publish source code, data related to project management (e.g., user stories, milestones, and performance metrics), and top-line spending data. 
+
 If you have questions, comments, or suggestions, please submit them as [issues](https://github.com/18F/bpa-fedramp-dashboard/issues).
 
 ### Next Steps
