@@ -209,7 +209,7 @@ This is a Firm Fixed Price order using the Agile BPA terms and conditions.
 
 ## 6.2	Period of Performance (POP)
 
-The period performance for this task order is delivery of the final product 60 days after the Post Award Conference. The Period of Performance begins on the date of the Post Award Conference and ends 60 days after the Post Award Conference.
+The period performance for this task order is delivery of the final product 60 calendar days after the Post Award Conference. The Period of Performance begins on the date of the Post Award Conference and ends 60 calendar days after the Post Award Conference.
 
 ## 6.3	Place and Hours of Performance
 
