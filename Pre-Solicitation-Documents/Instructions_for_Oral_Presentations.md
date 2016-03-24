@@ -4,7 +4,7 @@
 ## Schedule and Agenda
 Agenda Item | Time Allocated
 -----------|--------------
-Contractor Provided Questions |	Approximately 10 minute Prior to Arrival
+Government Provides Questions to Contractor |	60 Minutes Prior to Oral Presentation (via e-mail)
 Contractor Arrival & Acclimation | Approximately 5 Minutes
 Introductions | Approximately 5 Minutes
 Contractor Orals - Q&A on Technical Factors	| 60 Minutes Maximum
@@ -35,9 +35,9 @@ technical factors. The questions are related to the contractor’s technical und
 and approach of the requirements identified in the PWS and quality control measures for
 overseeing performance. This part of the oral presentation of answers shall not exceed
 60 minutes, and may go shorter. The Contracting Officer will strictly enforce this time
-limit on all contractors.
+limit on all contractors.  
 
-*Note that each Offeror will be provided the questions 10 minutes prior to their Oral
+*Note that each Offeror will be provided the questions, via e-mail, 60 minutes prior to their Oral
 Presentation.
 
 ### Part Two (only if necessary)
