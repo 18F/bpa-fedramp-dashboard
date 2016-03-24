@@ -18,8 +18,8 @@ Refer to PWS Attachment 2 for Government Roles and Responsibilities.
 Deliverable or Required Services | Performance Standard(s) | Acceptable Quality Level (AQL)| Method of Surveillance
 ------------------------|-------------------------------|-----------------------|-------------------
 Tested Code	| Code delivered under the order must have substantial test code coverage and a clean code base	| Minimum 90% test coverage and Code Climate of 3	| https://codeclimate.com
-Accessible |	Client-side rendering must comply with section 508 standards	| Meets 508 Standards |	http://squizlabs.github.io/HTML_CodeSniffer/
-Deployed	| Code must successfully build and deploy into staging environment.	| Successful build | CloudFoundry logs
+Accessible |	Client-side rendering must conform with section 508 standards	| Meets 508 Standards |	http://squizlabs.github.io/HTML_CodeSniffer/
+Deployed	| Code must successfully build and deploy into staging environment.	| Successful build with a single command | Combination of manual review and automatic testing
 Documented |	All dependencies (and licenses for dependencies) are listed and all major functions are documented. | All Javascript libraries are listed and the licenses are documented. Software/source code is documented.| Combination of manual review and automatic testing
 
 ## SURVEILLANCE
