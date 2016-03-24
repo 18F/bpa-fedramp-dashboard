@@ -38,7 +38,7 @@ At the conclusion of each sprint, the COR, along with the 18F Product Manager, w
 
 At the conclusion of the period of performance, a similar procedure will be followed to document discrepancies and to assess overall performance.
 
-If any of the services do not conform to the task order requirements, the Government may require the Contractor to perform the services again in conformity with task order requirements. The Contractor must correct the defect(s) within the timeframes established in the PWS. The COR shall not certify satisfactory performance for the task order until all defects have been corrected.
+If any of the services do not conform to the task order requirements, the Government may require the Contractor to perform the services again in conformity with task order requirements. Any user stories that are not accepted must be completed in the next sprint, unless the product owner and 18F product manager agree to move it to a later sprint. The COR shall not certify satisfactory performance for the task order until all defects have been corrected.
 
 When the defects in services cannot be corrected by re-performance, the Government may:
 
