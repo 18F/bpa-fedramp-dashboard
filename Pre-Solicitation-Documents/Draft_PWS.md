@@ -156,7 +156,7 @@ Contractor personnel shall have:
 
 The following requirements related to personnel must be met:
 
-a)	The Contractor shall assign to perform this task order those persons whose résumés are submitted with its quotation and who are identified in the Contractor’s quotation as Key Personnel. All contractor employees assigned to perform this task order will be Key Personnel.
+a)	The Contractor shall assign to perform this task order those persons whose résumés are submitted with its quotation and who are identified in the Contractor’s quotation as Key Personnel.
 
 b)	If an individual proposed as Key Personnel becomes unavailable during the course of the source selection process, the Offeror will notify the Contracting Officer immediately and provide a substitute and their résumé. The proposal of any Key Personnel not currently employed by the Offeror shall be accompanied by letters of intent signed by the proposed Key Personnel indicating their intent to be employed by the Offeror team if the Offeror is awarded a task order under this RFQ.
 
@@ -166,7 +166,9 @@ d)	All requests for substitutions/additions of Key Personnel must include a deta
 
 e)	The Contracting Officer or his/her COR will evaluate the request(s) for substitutions/additions of Key Personnel and the Contracting Officer will notify the Contractor, in writing, of approval or disapproval. Disapproval of the proposed individual(s) shall not provide grounds for nonperformance by the Contractor or form the basis of any claim for monies, delivery schedule extension, or any other equitable adjustment.
 
-f)	At a minimum, a Project Manager must be identified and designated as Key Personnel. The Project Manager will be a direct liaison to the COR, 18F’s Project Manager, and the FedRAMP Product Owner.  The Project Manager is responsible for the supervision and management of the Contractor’s personnel, technical assistance, and interface. Desired skills/experience for the Project Manager include:
+f)	At a minimum, a Project Manager and a Technical Lead must be identified and designated as Key Personnel.
+
+The Project Manager will be a direct liaison to the COR, 18F’s Project Manager, and the FedRAMP Product Owner.  The Project Manager is responsible for the supervision and management of the Contractor’s personnel, technical assistance, and interface. Desired skills/experience for the Project Manager include:
 
 *	Experience in technical leadership.
 *	Ability to rapidly prioritize competing requirements.
@@ -174,6 +176,8 @@ f)	At a minimum, a Project Manager must be identified and designated as Key Pers
 *	Ability to communicate end user feedback to technical and design leads.
 *	Strong communication skills.
 *	Proven knowledge of industry standards.
+
+The Technical Lead must have a full understanding of the technical approach discussed in the Oral Presentations and delivered by the Contractor after award. NOTE - the labor category proposed for this Technical Lead is at the Offeror's discretion.  
 
 ### 5.7.3 Estimated Level Of Effort
 
