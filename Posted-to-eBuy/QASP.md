@@ -18,13 +18,14 @@ Refer to PWS Attachment 2 for Government Roles and Responsibilities.
  **Note that the performance requirements listed below are required for the final deliverable. However, the sprints and incremental delivery of code will be assessed by the Government to ensure that the contractor is on a path to successful final delivery.**
 
 Deliverable or Required Services Performance Standard(s)
-| Deliverable or Required Services | Performance Standard(s)                                                                             | Acceptable Quality Level (AQL)                                                                           | Method of Surveillance                             |
+
+| Deliverable or Required Services | Performance Standard(s) | Acceptable Quality Level (AQL) | Method of Surveillance |
 |----------------------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| Tested Code                      | Code delivered under the order must have substantial test code coverage and a clean code base       | Minimum 90% test coverage and Code Climate of 3                                                          | https://codeclimate.com                            |
-| Accessible                       | Client-side rendering must conform with section 508 standards                                       | Meets 508 Standards                                                                                      | http://squizlabs.github.io/HTML_CodeSniffer/       |
-| Deployed                         | Code must successfully build and deploy into staging environment                                    | Successful build with a single command                                                                   | Combination of manual review and automatic testing |
-| Documented                       | All dependencies (and licenses for dependencies) are listed and all major functions are documented. | All Javascript libraries are listed and the licenses are documented. Software/source code is documented. | Combination of manual review and automatic testing |
-| Available                        | Code must be stored in a version,controlled open,source repository.                                 | All of the code needed to run the front end of the dashboard must be available.                          | 18F will run test.                                 |
+| Tested Code | Code delivered under the order must have substantial test code coverage and a clean code base | Minimum 90% test coverage and Code Climate of 3 | https://codeclimate.com |
+| Accessible | Client-side rendering must conform with section 508 standards | Meets 508 Standards | http://squizlabs.github.io/HTML_CodeSniffer/ |
+| Deployed | Code must successfully build and deploy into staging environment | Successful build with a single command | Combination of manual review and automatic testing |
+| Documented | All dependencies (and licenses for dependencies) are listed and all major functions are documented. | All Javascript libraries are listed and the licenses are documented. Software/source code is documented. | Combination of manual review and automatic testing |
+| Available | Code must be stored in a version,controlled open,source repository. | All of the code needed to run the front end of the dashboard must be available. | 18F will run test. |
 
 ### SURVEILLANCE
 ============
