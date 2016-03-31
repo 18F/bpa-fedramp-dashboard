@@ -1,53 +1,34 @@
-Performance Based Quality Assurance Surveillance Plan (QASP) For
+#Performance Based Quality Assurance Surveillance Plan (QASP) For FedRAMP Dashboard Platform Support
 ================================================================
 
-> <span id="FedRAMP Dashboard Platform Support"
-> class="anchor"></span>**FedRAMP Dashboard Platform Support** <span
-> id="Client Order ID Number: ID09160019      " class="anchor"></span>
-> **Client Order ID Number: ID09160019 March 30, 2016** <span
-> id="INTRODUCTION" class="anchor"></span> **INTRODUCTION**
->
-> This Quality Assurance Surveillance Plan (QASP) has been developed to
-> evaluate
->
-> contractor actions while implementing the Performance Work Statement
-> (PWS). It is designed to provide an effective surveillance method of
-> monitoring contractor performance for each listed objective on the
-> Performance Requirements Matrix in the task order. The QASP provides a
-> systematic method to evaluate the services the contractor is required
-> to furnish.
->
-> The contractor, and not the Government, is responsible for management
-> and quality control actions to meet the terms of the task order. The
-> role of the Government is quality assurance to ensure task order
-> standards are achieved.
+Client Order ID Number: ID09160019
+March 30, 2016
 
-ROLES AND RESPONSIBILITIES
+## INTRODUCTION
+
+This Quality Assurance Surveillance Plan (QASP) has been developed to evaluate contractor actions while implementing the Performance Work Statement (PWS). It is designed to provide an effective surveillance method of monitoring contractor performance for each listed objective on the Performance Requirements Matrix in the task order. The QASP provides a systematic method to evaluate the services the contractor is required to furnish. The contractor, and not the Government, is responsible for management and quality control actions to meet the terms of the task order. The role of the Government is quality assurance to ensure task order standards are achieved.
+
+### ROLES AND RESPONSIBILITIES
 ==========================
 
-> Refer to PWS Attachment 2 for Government Roles and Responsibilities.
+Refer to PWS Attachment 2 for Government Roles and Responsibilities.
 
-PERFORMANCE REQUIREMENTS MATRIX
+### PERFORMANCE REQUIREMENTS MATRIX
 ===============================
+ **Note that the performance requirements listed below are required for the final deliverable. However, the sprints and incremental delivery of code will be assessed by the Government to ensure that the contractor is on a path to successful final delivery.**
 
-> **Note that the performance requirements listed below are required for
-> the final deliverable. However, the sprints and incremental delivery
-> of code will be assessed by the Government to ensure that the
-> contractor is on a path to successful final delivery.**
-
-  > Deliverabl e or Required Services   > Performance Standard(s)                                                                         > Acceptable Quality Level (AQL)                    > Method of Surveillance
+ Deliverable or Required Services Performance Standard(s)                                                                        Acceptable Quality Level (AQL)                    Method of Surveillance
   ------------------------------------- ------------------------------------------------------------------------------------------------- --------------------------------------------------- --------------------------------------------------------------------------------
-  > Tested Code                         > Code delivered under the order must have substantial test code coverage and a clean code base   > Minimum 90% test coverage and Code Climate of 3   > https://codeclimate.co m
-  > Accessible                          > Client-side rendering must conform with section 508 standards                                   > Meets 508 Standards                               > [http://squizlabs.github.i](http://squizlabs.github.i/) o/HTML\_CodeSniffer/
-  > Deployed                            > Code must successfully build and deploy into staging                                            > Successful build with a single command            > Combination of manual review and automatic testing
+ Tested Code                         Code delivered under the order must have substantial test code coverage and a clean code base  Minimum 90% test coverage and Code Climate of 3   https://codeclimate.co m
+ Accessible                          Client-side rendering must conform with section 508 standards                                  Meets 508 Standards                               [http://squizlabs.github.i](http://squizlabs.github.i/) o/HTML\_CodeSniffer/
+ Deployed                            Code must successfully build and deploy into staging                                           Successful build with a single command            Combination of manual review and automatic testing
+ environment.
 
-> environment.
-
-  > Document ed   > All dependencies (and licenses for dependencies) are listed and all major functions are documented.   > All Javascript libraries are listed and the licenses are documented. Software/source code is documented.   > Combination of manual review and automatic testing
+ Document ed   All dependencies (and licenses for dependencies) are listed and all major functions are documented.  All Javascript libraries are listed and the licenses are documented. Software/source code is documented.  Combination of manual review and automatic testing
   --------------- ------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------ ------------------------------------------------------
-  > Available     > Code must be stored in a version controlled open source repository.                                   > All of the code needed to run the front end of the dashboard must be available.                            > 18F will run test.
+ Available     Code must be stored in a version controlled open source repository.                                  All of the code needed to run the front end of the dashboard must be available.                           18F will run test.
 
-SURVEILLANCE
+### SURVEILLANCE
 ============
 
 The Government will evaluate the performance objectives through
@@ -55,7 +36,7 @@ surveillance as reflected above by reviews and acceptance of work
 products and services. As indicated, the Government will assess progress
 towards the final delivered software code.
 
-STANDARD
+### STANDARD
 ========
 
 The Contractor shall perform all work required in a satisfactory manner
@@ -64,7 +45,7 @@ CO for appropriate action if it is likely that the contractor will not
 achieve successful final delivery of the software code in accordance
 with the performance objectives and acceptable AQLs identified above.
 
-PROCEDURES
+### PROCEDURES
 ==========
 
 The COR will inspect all tasks required by the task order to ensure
@@ -82,44 +63,17 @@ corrective action (if not already noted). The vendor team will discuss
 and document actions to prevent recurrence in their bi-weekly sprint
 retrospectives.
 
-At the conclusion of the period of performance, a similar procedure will
-be followed to document discrepancies and to assess overall performance.
+At the conclusion of the period of performance, a similar procedure will be followed to document discrepancies and to assess overall performance.
 
 If any of the services do not conform to the task order requirements,
 the Government may require the Contractor to perform the services again
 in conformity
+ with task order requirements. Any user stories that are not accepted must be completed in the next sprint, unless the product owner and 18F product manager agree to move it to a later sprint. The COR shall not certify satisfactory performance for the task order until all defects have been corrected. When the defects in services cannot be corrected by re-performance, the Government may:
 
-> with task order requirements. Any user stories that are not accepted
-> must be completed in the next sprint, unless the product owner and 18F
-> product manager agree to move it to a later sprint. The COR shall not
-> certify satisfactory performance for the task order until all defects
-> have been corrected.
->
-> When the defects in services cannot be corrected by re-performance,
-> the Government may:
+1)  Require the Contractor to take necessary action to ensure that future performance conforms to task order requirements; and,
 
-1)  Require the Contractor to take necessary action to ensure that
-    > future performance conforms to task order requirements; and,
+2)  Reduce the task order price to reflect the reduced value of the services performed. The COR shall, in addition to providing documentation to the Procurement PM/CO, maintain a complete quality assurance file. The file will contain copies of all reports, evaluations, recommendations, and any actions relating to the Government’s performance of the quality assurance function, including originals of all surveillance activity checklists. All such records will be retained for the life of the task order. The COR shall forward these records to the Procurement PM/CO at completion or termination of the task order.
 
-2)  Reduce the task order price to reflect the reduced value of the
-    > services performed.
-
-> The COR shall, in addition to providing documentation to the
-> Procurement PM/CO, maintain a complete quality assurance file. The
-> file will contain copies of all reports, evaluations, recommendations,
-> and any actions relating to the Government’s performance of the
-> quality assurance function, including originals of all surveillance
-> activity checklists. All such records will be retained for the life of
-> the task order. The COR shall forward these records to the Procurement
-> PM/CO at completion or termination of the task order.
-
-ACCEPTANCE OF SERVICES
+### ACCEPTANCE OF SERVICES
 ======================
-
-> Acceptance of services shall be based upon compliance with performance
-> standards described in the PWS and surveillance procedures described
-> in this QASP. Before approving/certifying any Contractor invoices, the
-> COR will verify that all invoiced services have been performed in
-> compliance with task order requirements. The COR shall not certify
-> satisfactory performance for the task order until all defects have
-> been corrected.
+Acceptance of services shall be based upon compliance with performance standards described in the PWS and surveillance procedures described in this QASP. Before approving/certifying any Contractor invoices, the COR will verify that all invoiced services have been performed in compliance with task order requirements. The COR shall not certify satisfactory performance for the task order until all defects have been corrected.
