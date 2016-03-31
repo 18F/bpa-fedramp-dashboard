@@ -1,8 +1,5 @@
-<span id="Request for Quotation (RFQ)" class="ancho</spDate: March
-30, 2016
-
 ##Request for Quotation (RFQ) 
-
+March 30th, 2016
 In Reply Refer To: ID09160019
 
 From: Renee M. Hicks, Senior Contracting Officer, GSA, Federal
