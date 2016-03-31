@@ -1,15 +1,12 @@
-GOVERNMENT ROLES AND RESPONSIBILITIES FOR FEDRAMP DASHBOARD PLATFORM SUPPORT
+Government Roles And Responsibilities For FedRAMP Dashboard Platform Support
 =========================================
 Client Order ID Number: ID09160019
-
 
 ### Contracting Officer
 ========================
 
 The Contracting Officer (CO) is responsible for monitoring task order
-contract compliance,
-
-contract administration, and cost control and for resolving any
+contract compliance, contract administration, and cost control and for resolving any
 differences between the observations documented by the Government and
 the contractor. The CO will designate, at a minimum, one (1) Contracting
 Officer’s Representative (COR) as the Government authority for
@@ -56,8 +53,6 @@ for having a vision of what he or she wishes to build, and convey the
 vision to the 18F Product Manager and the Contractor’s scrum or
 development team. The Product Owner does this in part through the
 product backlog, which will be a prioritized features list for the
-product. The
-
-Product Owner is responsible for advocating on behalf of the agency’s
+product. The Product Owner is responsible for advocating on behalf of the agency’s
 needs and responsible for decision-making during sprint planning and
 implementation.
