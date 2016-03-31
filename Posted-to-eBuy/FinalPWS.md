@@ -251,19 +251,14 @@ the COR within two weeks of the COR’s request.
 
 ###5.6 Deliverables
 
-> Table 1 List of Deliverables
-
-  > Required Deliverables/Reports Required   > Due Date                            > Description of Deliverable Content
-  ------------------------------------------ ------------------------------------- ----------------------------------------------------------
-  > Status Report                            > 1 business day after every sprint   > A report of progress throughout the sprint
-  > Code repository for product              > End of task order                   > Version controlled open source repository of code that
-
-> Comprises dashboard
-
-  > Development Prototype                                  > End of second sprint, and every sprint thereafter               > In-progress development prototype, accessible on the web via a staging/development server
-  -------------------------------------------------------- ----------------------------------------------------------------- ---------------------------------------------------------------------------------------------
-  > Working Dashboard of FedRamp Cloud Service Providers   > End of task order                                               
-  > Transition Plan                                        > 3 business days after conclusion of the second-to-last sprint   > See 5.5.1
+####Table 1 List of Deliverables
+| REQUIRED DELIVERABLES /  REPORTS                     | DUE DATES                                                          | DESCRIPTION OF DELIVERABLE CONTENT                                                               |
+|------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Status Reports                                       | 1 business day after each sprint                                   | A report of progress throughout each sprint                                                      |
+| Code Repository of Product                           | End of task order                                                  | Version-controlled Open Source repository of code that comprises dashboard                       |
+| Development Prototype                                | End of second sprint, and every sprint thereafter                  | In-progress development prototype, accessible on the web via staging server / development server |
+| Working Dashboard of FedRamp Cloud Service Providers | End of task order                                                  |                                                                                                  |
+| Transition plan                                      | 3 business days after the conclusion  of the second-to-last sprint | See Section 5.5.1 of the PWS                                                                     |
 
 ####5.6.1 Delivery Instructions
 
