@@ -1,28 +1,18 @@
 ## FedRAMP Dashboard Blanket Purchase Agreement (BPA) Order
 
-We're excited to announce the initial Request for Quotations (RFQ) for the [Agile Blanket Purchase Agreement (BPA)](https://pages.18f.gov/ads-bpa), which will be posted within the next few weeks.
+We're excited to announce the Request for Quotations (RFQ) for a FedRAMP process Dashboard is live on eBuy for the 17 qualified vendors on the [Agile Blanket Purchase Agreement (BPA)](https://pages.18f.gov/ads-bpa)
 
 ### Manifest
 
-1. Draft RFQ documents. You'll see all of the information that has been drafted to date:
-  - [Our RFQ](Pre-Solicitation-Documents/RFQ_ID09160019.md)
-  - [Performance Work Statement](Pre-Solicitation-Documents/Draft_PWS.md)
-  - [Oral Presentation instructions](Pre-Solicitation-Documents/Instructions_for_Oral_Presentations.md)
-  - [Quality Assurance Surveillance Plan](Pre-Solicitation-Documents/QASP.md)
-  - [Labor Pricing Template](Pre-Solicitation-Documents/ID09160019_Labor_Pricing_Template.xlsx)
-  - [Government Roles & Responsibilities](Pre-Solicitation-Documents/Government_Roles_and_Responsibilities.md)
+1. Documents that are posted to eBuy are available for in the folder labeled [Posted to eBuy] (https://github.com/18F/bpa-fedramp-dashboard/tree/master/Posted-to-eBuy)
 
-2. The [Ordering Guide](Pre-Solicitation-Documents/Ordering_Guide.md) that 18F intends to use for the Agile BPA.
-
-3. The Transparency Policy that 18F intends to use for the Agile BPA:
-
-  > Vendors are advised that 18F will publish on a publicly available website documents associated with this requirement, including any Requests for Quotation (including amendments), Question and Answer exchanges with vendors (source-identifying information removed), and other relevant information that is not confidential/proprietary in nature or source selection sensitive information that would otherwise implicate procurement integrity concerns. Upon award, 18F will publish the total price of the selected proposal and certain non-source-identifying data (e.g., the number of bids, the mean price, median, and standard deviation of price). During the performance of this task order, 18F will similarly publish source code, data related to project management (e.g., user stories, milestones, and performance metrics), and top-line spending data.
+2. The original drafts remain online in Pre-Solicitation Documents
   
 If you have questions, comments, or suggestions, please submit them as [issues](https://github.com/18F/bpa-fedramp-dashboard/issues).
 
 ### Next Steps
 
-We are still going through final reviews on our end, but your feedback is important. Our final reviews will take place at the same time, with the hopes of posting the final RFQ sometime during the week of March 28.
+As reflected in eBuy for qualified vendors, Quotations are due on Friday, April 8th. We look forward to reporting back when the contract is awared.
 
 ## Public domain
 
