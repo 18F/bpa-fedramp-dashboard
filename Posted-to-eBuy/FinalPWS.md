@@ -129,12 +129,12 @@ The Contractor shall provide the following services:
     Design Standards.](https://playbook.cio.gov/designstandards/)
 
 -   All software code delivered under this order shall comply with the
-    18F open- source policy in effect as of the date of award:
-    https://github.com/18F/open- source-policy.
+    [18F open source policy] (https:/github.com/18F/open-source-policy/) in 
+    effect as of the date of award.
 
 -   All software code delivered under this order shall comply with the
-    18F accessibility guidelines in effect as of the date of
-    award: https://pages.18f.gov/accessibility/.
+    [18F accessibility guidelines] (https://pages.18f.gov/accessibility/)
+    in effect as of the date of award.
 
 -   As part of this being purchased off of the Agile Blanket Purchase
     Agreement (BPA), work will be conducted in two-week sprints and
@@ -321,7 +321,7 @@ delineated in this PWS.
 
 Contractor personnel shall have:
 
--   A strong technical background in the following:
+A strong technical background in the following:
 
 –   Building a static site that can be deployed with a single run
     script.
@@ -384,27 +384,27 @@ e)  The Contracting Officer or his/her COR will evaluate the request(s)
 
 f)  At a minimum, a Project Manager and a Technical Lead must be
     identified and designated as Key Personnel.
-
-    The Project Manager will be a direct liaison to the COR, 18F’s Project
+    
+    *The Project Manager* will be a direct liaison to the COR, 18F’s Project
     Manager, and the FedRAMP Product Owner. The Project Manager is
     responsible for the supervision and management of the Contractor’s
     personnel, technical assistance, and interface. Desired
     skills/experience for the Project Manager include:
-
+    
     -   Experience in technical leadership.
-
+    
     -   Ability to rapidly prioritize competing requirements.
-
+    
     -   Ability to understand and simplify customer requirements.
-
-    -   Ability to communicate end user feedback to technical and
+    
+    -   Ability to communicate end user feedback to technical and 
         design leads.
-
+        
     -   Strong communication skills.
-
+    
     -   Proven knowledge of industry standards.
-
-    The Technical Lead must have a full understanding of the technical
+    
+    The *Technical Lead* must have a full understanding of the technical
     approach discussed in the Oral Presentations and delivered by the
     Contractor after award. NOTE - the labor category proposed for this
     Technical Lead is at the Offeror's discretion.
@@ -722,7 +722,7 @@ following information at a minimum.
 -   Travel Itemized by Individual and Trip (if applicable)
 
 -   Supporting documentation for travel including travel approval and
-    > receipts (if applicable)
+    receipts (if applicable)
 
 ###7.2 Invoice Submission
 
