@@ -385,11 +385,11 @@ e)  The Contracting Officer or his/her COR will evaluate the request(s)
 f)  At a minimum, a Project Manager and a Technical Lead must be
     identified and designated as Key Personnel.
     
-    *The Project Manager* will be a direct liaison to the COR, 18F’s Project
-    Manager, and the FedRAMP Product Owner. The Project Manager is
-    responsible for the supervision and management of the Contractor’s
-    personnel, technical assistance, and interface. Desired
-    skills/experience for the Project Manager include:
+*The Project Manager* will be a direct liaison to the COR, 18F’s Project
+Manager, and the FedRAMP Product Owner. The Project Manager is
+responsible for the supervision and management of the Contractor’s
+personnel, technical assistance, and interface. Desired
+skills/experience for the Project Manager include:
     
     -   Experience in technical leadership.
     
@@ -404,10 +404,10 @@ f)  At a minimum, a Project Manager and a Technical Lead must be
     
     -   Proven knowledge of industry standards.
     
-    The *Technical Lead* must have a full understanding of the technical
-    approach discussed in the Oral Presentations and delivered by the
-    Contractor after award. NOTE - the labor category proposed for this
-    Technical Lead is at the Offeror's discretion.
+The *Technical Lead* must have a full understanding of the technical
+approach discussed in the Oral Presentations and delivered by the
+Contractor after award. NOTE - the labor category proposed for this
+Technical Lead is at the Offeror's discretion.
 
 ####5.7.3 Estimated Level of Effort
 
