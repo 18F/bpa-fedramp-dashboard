@@ -5,7 +5,7 @@ In Reply Refer To: ID09160019
 From: Renee M. Hicks, Senior Contracting Officer, GSA, Federal
 Acquisition Service Subject: Request for Quotation (RFQ)
 
-Reply By: April 8, 2016 at 1 PM (PT)
+Reply By: April 8, 2016 at 7 PM (EDT)
 
 To: Agile Blanket Purchase Agreement (BPA) Pool 3 Holders,
 
@@ -40,7 +40,7 @@ comments. Questions or comments received after the required deadline
 will not be answered.
 
 All offers must be received electronically through the e-Buy web portal
-by the official closing date and time of April 8, 2016 at 1:00 PM (PST).
+by the official closing date and time of April 8, 2016 at 7:00 PM (EDT).
 Late quotations will not be considered for award. It is each Offeror’s responsibility to learn how
 to navigate the e-Buy system, find attached documents, and/or submit
 their quotation. If an offeror is unsure about any eBuy feature, the
