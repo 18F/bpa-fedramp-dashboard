@@ -271,7 +271,7 @@ Acquisition Services Business System) web portal. Refer to Section
 ####5.6.2 Inspection and Acceptance of Services
 
 All periodic reports and task deliverables shall be inspected, tested
-(where applicable), reviewed, and accepted by the Government within 10
+(where applicable), reviewed, and accepted by the Government within 5
 days of the conclusion of each sprint.
 
 Only the COR, and their designated alternate, has the authority to
