@@ -4,7 +4,7 @@ We're excited to announce the Request for Quotations (RFQ) for a FedRAMP process
 
 ### Manifest
 
-1. Documents that are posted to eBuy are available for in the folder labeled [Posted to eBuy] (https://github.com/18F/bpa-fedramp-dashboard/tree/master/Posted-to-eBuy)
+1. Documents that are posted to eBuy are available for in the folder labeled [Posted to eBuy] (https://github.com/18F/bpa-fedramp-dashboard/tree/master/Posted-to-eBuy). These documents will remain consistent with any changes or updates made to the documents in eBuy.
 
 2. The original drafts remain online in Pre-Solicitation Documents
   
