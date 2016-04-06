@@ -3,7 +3,6 @@ Government Roles And Responsibilities For FedRAMP Dashboard Platform Support
 Client Order ID Number: ID09160019
 
 ### Contracting Officer
-========================
 
 The Contracting Officer (CO) is responsible for monitoring task order
 contract compliance, contract administration, and cost control and for resolving any
@@ -16,7 +15,6 @@ measured, as well as the contractor’s performance, and must be
 identified and designated by the CO.
 
 ### Contracting Officer’s Representative
-====================================
 
 The Contracting Officer’s Representative (COR) is designated in writing
 by the CO to act as his or her authorized representative to assist in
@@ -31,7 +29,6 @@ action. The COR will have the responsibility to document the inspection
 and evaluation of the contractor’s work performance.
 
 ### Procurement Project Manager
-===========================
 
 The Procurement Project Manager is the interface between the requiring
 organization (GSA 18F) and contracting organization (GSA Region 9). The
@@ -40,13 +37,11 @@ COR and CO, assists with contract administration, ensures client
 acceptance of services, and reviews invoices for payment.
 
 ### 18F Product Manager
-===================
 
 The 18F Product Manager is responsible for coordination between the
 contractor’s development team, the Product Owner, and the CO and COR.
 
 ### Product Owner
-=============
 
 The Product Owner is the project’s key stakeholder. They are responsible
 for having a vision of what he or she wishes to build, and convey the
