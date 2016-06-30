@@ -1,6 +1,6 @@
 ## FedRAMP Dashboard Blanket Purchase Agreement (BPA) Order
 
-We're excited to announce the Request for Quotations (RFQ) for a FedRAMP process Dashboard is live on eBuy for the 17 qualified vendors on the [Agile Blanket Purchase Agreement (BPA)](https://pages.18f.gov/ads-bpa)
+We're excited to announce an award was made for the FedRAMP process Dashboard. TrueTandem, in partnership with Ignition72, is working to build this tool by the end of the performance period in mid-August. If you'd like to review their work, they are developing [on Github](https://github.com/truetandem/fedramp-dashboard).
 
 ### Manifest
 
@@ -9,10 +9,6 @@ We're excited to announce the Request for Quotations (RFQ) for a FedRAMP process
 2. The original drafts remain online in Pre-Solicitation Documents
   
 If you have questions, comments, or suggestions, please submit them as [issues](https://github.com/18F/bpa-fedramp-dashboard/issues).  Please note at this time that 18F and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors.  Comments from other parties will still be considered but we cannot commit to responding to them.
-
-### Next Steps
-
-As reflected in eBuy for qualified vendors, Quotations are due on Friday, April 8th. We look forward to reporting back when the contract is awarded.
 
 ## Public domain
 
